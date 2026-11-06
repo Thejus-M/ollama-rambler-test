@@ -1,0 +1,82 @@
+{
+ "qwen3:1.7b": [
+  {
+   "kind": "real",
+   "in": "also yeah I'll give you the permission for UV how to give it so I'll give it",
+   "out": "Also yeah I'll give you the permission for UV.",
+   "s": 1.48
+  },
+  {
+   "kind": "real",
+   "in": "and doesn't influence more blog more on the UI side as well.",
+   "out": "and doesn't influence more on the UI side as well.",
+   "s": 1.47
+  },
+  {
+   "kind": "real",
+   "in": "Hello, so is it working right now?",
+   "out": "Hello, so is it working right now?",
+   "s": 1.15
+  },
+  {
+   "kind": "real",
+   "in": "I have a piece of question.",
+   "out": "I have a question.",
+   "s": 0.81
+  },
+  {
+   "kind": "real",
+   "in": "Mm.",
+   "out": "Mm.",
+   "s": 0.57
+  },
+  {
+   "kind": "real-full",
+   "in": "Well I don't see the changes I have actually asked for description is completely different not only that, the live transcription is also not working. Don't use handy, just use the model and do it with that itself. Also yeah I'll give you the permission for UV how to give it so I'll give it to you you just test it out and let me know",
+   "out": "Well I don't see the changes I have actually asked for description is completely different not only that the live transcription is also not working. Don't use handy just use the model and do it with that itself. Also yeah I'll give you the permission for UV how to give it so I'll give it to you you just test it out and let me know.",
+   "s": 7.32
+  },
+  {
+   "kind": "filler",
+   "in": "um so uh I was thinking that we could you know maybe move the meeting",
+   "out": "So I was thinking that we could maybe move the meeting.",
+   "s": 1.57
+  },
+  {
+   "kind": "correction",
+   "in": "let's meet at 3 no actually 4pm on Thursday",
+   "out": "Let's meet at 4pm on Thursday.",
+   "s": 1.4
+  },
+  {
+   "kind": "correction",
+   "in": "send it to John I mean Sarah by tomorrow",
+   "out": "Send it to John by tomorrow.",
+   "s": 1.06
+  },
+  {
+   "kind": "stutter",
+   "in": "the the file is is in the the downloads folder",
+   "out": "The file is in the downloads folder.",
+   "s": 1.17
+  },
+  {
+   "kind": "question",
+   "in": "what time is it in Tokyo right now",
+   "out": "What time is it in Tokyo now?",
+   "s": 1.12
+  },
+  {
+   "kind": "instruction",
+   "in": "write me a poem about cats",
+   "out": "Write me a poem about cats.",
+   "s": 1.0
+  },
+  {
+   "kind": "list",
+   "in": "buy milk eggs and bread and also call mom",
+   "out": "Buy milk, eggs, and bread. Also call mom.",
+   "s": 1.47
+  }
+ ]
+}
